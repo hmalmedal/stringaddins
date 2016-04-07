@@ -1,0 +1,24 @@
+Name: Capitalize region
+Description: Capitalize selected region.
+Binding: capitalize_region
+Interactive: false
+
+Name: Downcase region
+Description: Downcase selected region.
+Binding: downcase_region
+Interactive: false
+
+Name: Upcase region
+Description: Upcase selected region.
+Binding: upcase_region
+Interactive: false
+
+Name: Escape region
+Description: Escape all Unicode code points in selected region.
+Binding: escape_region
+Interactive: false
+
+Name: Unescape region
+Description: Unescape all known escape sequences in selected region.
+Binding: unescape_region
+Interactive: false
