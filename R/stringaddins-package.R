@@ -13,6 +13,7 @@ change_region <- function(f) {
                       error = function(e) NULL)
   if (!is.null(context)) {
     lapply(context$selection, function(sel) {
+      Encoding(sel$text) <- "UTF-8"
       rstudioapi::modifyRange(sel$range, f(sel$text))
     })
   }
