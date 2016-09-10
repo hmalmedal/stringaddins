@@ -3,10 +3,7 @@
 #' RStudio add-ins for manipulating strings.
 #'
 #' Open a file in RStudio. Select text and execute one of the add-ins.
-#'
-#' @name stringaddins
-#' @docType package
-NULL
+"_PACKAGE"
 
 change_region <- function(f) {
   context <- tryCatch(rstudioapi::getActiveDocumentContext(),
