@@ -10,4 +10,4 @@ BugReports: https://github.com/hmalmedal/stringaddins/issues
 Imports:
     rstudioapi,
     stringi
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1

@@ -11,4 +11,15 @@ RStudio add-ins for manipulating strings.
 \details{
 Open a file in RStudio. Select text and execute one of the add-ins.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/hmalmedal/stringaddins}
+  \item Report bugs at \url{https://github.com/hmalmedal/stringaddins/issues}
+}
 
+}
+\author{
+\strong{Maintainer}: Håkon Malmedal \email{hmalmedal@gmail.com}
+
+}
