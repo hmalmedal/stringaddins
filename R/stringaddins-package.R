@@ -3,6 +3,8 @@
 #' RStudio add-ins for manipulating strings.
 #'
 #' Open a file in RStudio. Select text and execute one of the add-ins.
+#'
+#' @keywords package
 "_PACKAGE"
 
 change_region <- function(f) {
