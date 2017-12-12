@@ -1,6 +1,6 @@
 Package: stringaddins
 Title: Manipulate Strings
-Version: 1.0.0
+Version: 1.0
 Authors@R: person("Håkon", "Malmedal", email = "hmalmedal@gmail.com", role = c("aut", "cre"))
 Description: 'RStudio' add-ins for manipulating strings.
 License: GPL (>= 3)
