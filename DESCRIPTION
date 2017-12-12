@@ -5,10 +5,10 @@ Authors@R: person("Håkon", "Malmedal", email = "hmalmedal@gmail.com",
                   role = c("aut", "cre"))
 Description: 'RStudio' add-ins for manipulating strings.
 License: GPL (>= 3)
-Encoding: UTF-8
 URL: https://github.com/hmalmedal/stringaddins
 BugReports: https://github.com/hmalmedal/stringaddins/issues
 Imports:
     rstudioapi,
     stringi
+Encoding: UTF-8
 RoxygenNote: 6.0.1
